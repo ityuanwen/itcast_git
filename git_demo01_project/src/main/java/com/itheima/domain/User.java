@@ -4,4 +4,5 @@ public class User {
     String name;
     String sex;
     int age;
+    String address;
 }
